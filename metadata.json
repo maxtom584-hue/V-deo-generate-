@@ -1,0 +1,6 @@
+{
+  "name": "Gojo Video",
+  "description": "AI video generator powered by images and prompts, featuring Gojo Coins credit system, interactive social feed, task rewards, and password-protected admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
